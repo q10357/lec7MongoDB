@@ -2,4 +2,5 @@
 .idea
 node_modules/
 dist/
-.parcel.cache
+.parcel-cache
+/client/.parcel-cache/
